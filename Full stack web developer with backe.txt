@@ -1,0 +1,17 @@
+            Full stack web developer with backend experience, educated at Rice Extension. Skills in MERN stack technologies, including MySQL, Java, and PWA.  Ambitious and passionate about producing responsive, progressive web applications utilizing my newly acquired skillset.  Seeking to leverage background and experience to take my career as a full stack developer to senior level with a highly respected organization focused on creating strong solution sets and ground-breaking processes. 
+
+
+            description: 'An online store that will allow artist Kiorsten to sell her digital artwork.  This app was built with the followng technologies: HTML, CSS, Bootstrap, JavaScript, Node, React, Express, MongoDB, GraphQL, Apollo, JWT, StripeJs, Mongoose, Nodemon',
+
+
+<pre>
+    Full stack web developer with backend experience, educated at Rice Extension. Skills in MERN stack technologies,<br>
+    including MySQL, Java, and PWA.  Ambitious and passionate about producing responsive, progressive web applications<br>
+    utilizing my newly acquired skillset.  Seeking to leverage background and experience to take my career as a full<br>
+    stack developer to senior level with a highly respected organization focused on creating strong solution sets<br>
+    and ground-breaking processes. Full stack web developer with backend experience, educated at Rice Extension.<br>
+    Skills in MERN stack technologies, including MySQL, Java, and PWA.  Ambitious and passionate about producing<br>
+    responsive, progressive web applications utilizing my newly acquired skillset.  Seeking to leverage background<br>
+    and experience to take my career as a full stack developer to senior level with a highly respected organization<br>
+    focused on creating strong solution sets and ground-breaking processes. <br>
+    </pre>
